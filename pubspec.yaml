@@ -1,7 +1,7 @@
 name: getx_screen
-description: A new Flutter project.
-version: 0.0.1
-homepage:
+description: Boost productivity and enhance code readability with a simplified screen creation package based on Flutter's GetX state management
+version: 1.0.0
+homepage: https://github.com/Xim-ya/getx_screen
 
 environment:
   sdk: '>=3.0.3 <4.0.0'
